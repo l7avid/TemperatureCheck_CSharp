@@ -1,0 +1,15 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\bin\Debug\net6.0\ChallengeIfEnhaced.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\bin\Debug\net6.0\ChallengeIfEnhaced.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\bin\Debug\net6.0\ChallengeIfEnhaced.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\bin\Debug\net6.0\ChallengeIfEnhaced.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\bin\Debug\net6.0\ChallengeIfEnhaced.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\refint\ChallengeIfEnhaced.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ChallengeIfEnhaced.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\7 - Challenge If Enhaced\ChallengeIfEnhaced\ChallengeIfEnhaced\obj\Debug\net6.0\ref\ChallengeIfEnhaced.dll
